@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "eyeClosedIcon.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

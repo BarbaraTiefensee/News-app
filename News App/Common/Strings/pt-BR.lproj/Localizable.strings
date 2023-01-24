@@ -1,0 +1,86 @@
+//
+//  Localizable.strings
+//  News App
+//
+//  Created by Premier20 on 11/08/21.
+//  
+
+// MARK: - General
+"E-mail" = "E-mail";
+"OK" = "OK";
+"Editar Perfil" = "Editar Perfil";
+"Senha" = "Senha";
+
+// MARK: - ForgotPassword
+"Enviaremos um código para o seu e-mail" = "Enviaremos um código para o seu e-mail";
+"E-mail incorreto ou inexistente" = "E-mail incorreto ou inexistente";
+"ENVIAR" = "ENVIAR";
+"CANCELAR" = "CANCELAR";
+"Cancelar" = "Cancelar";
+"ERRO" = "ERRO";
+"Por favor complete o campo de e-mail" = "Por favor complete o campo de e-mail";
+"Sucesso!" = "Sucesso!";
+"Enviada solicitação por e-mail" = "Enviada solicitação por e-mail";
+
+// MARK: - ChangeProfile
+" Editar foto" = " Editar foto";
+"Nome" = "Nome";
+"Sobrenome" = "Sobrenome";
+"O endereço de e-mail não é válido" = "O endereço de e-mail não é válido";
+"Alterar senha" = "Alterar senha";
+"Nova senha" = "Nova senha";
+"As senhas devem ser iguais" = "As senhas devem ser iguais";
+"Confirmar nova senha" = "Confirmar nova senha";
+"ATUALIZAR" = "ATUALIZAR";
+"Por favor preencha todos os campos" = "Por favor preencha todos os campos";
+"Dados alterados com sucesso" = "Dados alterados com sucesso";
+"A senha não é válida" = "A senha não é válida";
+"Foto de Perfil" = "Foto de Perfil";
+"Cancelar" = "Cancelar";
+"Tirar Foto" = "Tirar Foto";
+"Como você gostaria de selecionar uma foto?" = "Como você gostaria de selecionar uma foto?";
+"Escolher da galeria" = "Escolher da galeria";
+"Imagem alterada com sucesso" = "Imagem alterada com sucesso";
+"O seu perfil foi atualizado com sucesso!" = "O seu perfil foi atualizado com sucesso!";
+"Pefil atualizado" = "Pefil atualizado";
+
+// MARK: - ChangePassword
+"Alterar senha" = "Alterar senha";
+"Senha atual" = "Senha Atual";
+"Não foi possivel alterar sua senha" = "Não foi possivel alterar sua senha";
+"Senha alterada com sucesso" = "Senha alterada com sucesso";
+
+// MARK: - Profile
+"Perfil" = "Perfil";
+"Artigos salvos" = "Artigos Salvos";
+"Você ainda não tem nenhum artigo salvo" = "Você ainda não tem nenhum artigo salvo";
+"Sair" = "Sair";
+"O que deseja fazer?" = "O que deseja fazer?";
+"Deseja sair?" = "Deseja sair?";
+"Você deverá efetuar o login novamente" = "Você deverá efetuar o login novamente";
+
+// MARK: - Register
+"Bem Vindo(a) \n Preencha seus dados para começar!" = "Bem Vindo(a) \n Preencha seus dados para começar!";
+"Senha de acesso" = "Senha de acesso";
+"Senha novamente" = "Senha novamente";
+"CADASTRAR" = "CADASTRAR";
+"Conta criada com sucesso" = "Conta criada com sucesso";
+"Algo deu errado, tente novamente" = "Algo deu errado, tente novamente";
+"Ao realizar se cadastrar, você concorda com nossos " = "Ao realizar se cadastrar, você concorda com nossos ";
+"Termos de Serviço " = "Termos de Serviço ";
+"e com as nossa " = "e com as nossa ";
+"Políticas de Privacidade" = "Políticas de Privacidade";
+
+// MARK: - Login
+"Faça seu login no app!" = "Faça seu login no app!";
+"Email ou senha inválido" = "Email ou senha inválido";
+"Esqueci minha senha" = "Esqueci minha senha";
+"ENTRAR" = "ENTRAR";
+"Não possui uma conta?" = "Não possui uma conta?";
+"Cadastre-se" = "Cadastre-se";
+
+// MARK: - Home
+"Artigos" = "Artigos";
+
+// MARK: - BaseView
+"Por favor aguarde..." = "Por favor aguarde...";
